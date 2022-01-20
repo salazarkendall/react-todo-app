@@ -1,6 +1,7 @@
 # React ToDoApp 📚
 
-This project was made to use some React hooks, such as useReducer and useEffect
+This project was made to use some React hooks, such as useReducer and useEffect.
+Also, I wanted to implement localStorage functionality, that means your todos will be available even after you close and reopen your browser.
 
 ## Important
 
