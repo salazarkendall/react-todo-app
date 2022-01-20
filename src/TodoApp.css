@@ -1,0 +1,19 @@
+body {
+	background-color: rgb(40, 37, 46);
+	color: aliceblue;
+	padding: 70px;
+}
+
+.list-group-item {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.done-todo {
+	text-decoration: line-through;
+}
+
+span {
+	cursor: pointer;
+}
