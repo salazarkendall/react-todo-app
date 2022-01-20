@@ -12,4 +12,4 @@ Then you'll be able to use this app in your browser running this command:
 
 `npm start`
 
-Don't want to mess with that? you
+Don't want to mess with that? you can always go to the live version of this project
